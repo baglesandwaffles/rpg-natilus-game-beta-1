@@ -6,3 +6,6 @@ Kaido's(@baglesandwaffles) Code Terms & Conditions
 3. You may NOT claim this code as your own.
 4. Commercial use is allowed only with explicit permission from Kaido.
 needs colorama to run 
+## How to Credit
+If you use or modify this game, please credit **Kaido** or **@baglesandwaffles** as the original creator:
+- In the code header
