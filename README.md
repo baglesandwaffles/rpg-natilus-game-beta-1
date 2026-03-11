@@ -5,3 +5,4 @@ Kaido's(@baglesandwaffles) Code Terms & Conditions
 2. You MUST credit Kaido as the original creator in any project, plugin, or modification.
 3. You may NOT claim this code as your own.
 4. Commercial use is allowed only with explicit permission from Kaido.
+needs colorama to run 
