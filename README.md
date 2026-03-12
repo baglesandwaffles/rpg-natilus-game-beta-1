@@ -1,11 +1,19 @@
 # rpg-natilus-game-beta-1
-beta 1 of the rpg game where you try to beat the nautilus. expect bugs this is the first relise
-Kaido's(@baglesandwaffles) Code Terms & Conditions
-1. You may use, modify, and share this code.
-2. You MUST credit Kaido as the original creator in any project, plugin, or modification.
-3. You may NOT claim this code as your own.
-4. Commercial use is allowed only with explicit permission from Kaido.
-needs colorama to run 
+
+Beta 1 of the RPG game where you try to beat the Nautilus. Expect bugs—this is the first release.  
+
+## Kaido's (@baglesandwaffles) Code Terms & Conditions
+
+- You **may use, modify, and share** this code for learning or personal projects.  
+- You **MUST credit Kaido** as the original creator in any project, plugin, or modification.  
+- You **may NOT claim this code as your own**.  
+- **Commercial use is NOT allowed** unless you have explicit permission from Kaido.  
+- **This code is provided "as-is"**; Kaido is not responsible for any issues or damage that may happen from using it.  
+
 ## How to Credit
-If you use or modify this game, please credit **Kaido** or **@baglesandwaffles** as the original creator:
-- In the code header
+
+If you use or modify this game, include this credit in your code header:
+
+## Requirements
+
+- Needs **colorama** to run.
