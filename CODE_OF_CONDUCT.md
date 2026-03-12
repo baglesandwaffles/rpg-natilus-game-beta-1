@@ -94,3 +94,39 @@ Following these rules keeps the project **safe, fun, and friendly for everyone**
 78. **Do not downplay experiences** – Take LGBTQ+ concerns seriously; never minimize discrimination.  
 79. **Respect chosen names** – Always use the name someone prefers to go by.  
 80. **Ensure accessibility** – Avoid any barriers that prevent LGBTQ+ members from participating fully.  
+
+## Final Protections & Extreme Safety Rules
+
+81. **No online intimidation** – Don’t pressure or scare contributors in messages or comments.  
+82. **No sharing sensitive content** – Avoid posting passwords, keys, or private data.  
+83. **No harmful links** – Do not share unsafe websites, downloads, or malware.  
+84. **No threatening messages** – Physical, digital, or emotional threats are forbidden.  
+85. **No harassment of contributors** – Respect everyone who helps with the project.  
+86. **No targeting by skill level** – Never mock beginners or those learning coding.  
+87. **No forcing participation** – Contributors can say “no” to tasks or requests.  
+88. **No inappropriate memes** – Avoid content that could be offensive to minors.  
+89. **No excessive criticism** – Feedback should be constructive, not abusive.  
+90. **No hate symbols** – Don’t post or link to symbols associated with discrimination or violence.  
+91. **No coercion for credit** – Never demand others remove credit or take credit for work.  
+92. **No targeting mental health** – Avoid comments that mock or exploit anxiety, depression, or other conditions.  
+93. **Respect accessibility needs** – Consider contributors with vision, hearing, or other accessibility needs.  
+94. **No glorifying violence** – Avoid content that encourages harming self or others.  
+95. **No doxxing of contributors** – Never reveal personal information of any contributor.  
+96. **No impersonation of Kaido** – Do not pretend to be the project owner.  
+97. **No bypassing rules** – Attempts to get around rules will not be tolerated.  
+98. **No manipulating minors** – Do not pressure or trick younger contributors for any reason.  
+99. **No inappropriate private content** – Keep messages safe and public-friendly; avoid private NSFW content.  
+100. **Encourage positive community behavior** – Help others, be kind, and make the project enjoyable for everyone.
+
+## Positive & Encouraging Rules
+
+101. **Have fun!** – This project is about learning, creating, and enjoying code.  
+102. **Be creative** – Feel free to explore new ideas in a respectful way.  
+103. **Encourage others** – Celebrate contributors’ achievements and progress.  
+104. **Share knowledge** – Help beginners and others learn.  
+105. **Be kind** – Small acts of kindness make the community enjoyable.  
+106. **Stay curious** – Ask questions, experiment, and explore safely.  
+107. **Respect everyone’s pace** – People learn and contribute at different speeds.  
+108. **Celebrate diversity** – Different perspectives make the project stronger.  
+109. **Enjoy learning from mistakes** – Bugs are part of coding; treat them as opportunities.  
+110. **Keep it positive** – Aim to make the community welcoming and fun for everyone.  
