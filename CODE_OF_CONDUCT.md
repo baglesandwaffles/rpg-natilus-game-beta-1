@@ -130,3 +130,11 @@ Following these rules keeps the project **safe, fun, and friendly for everyone**
 108. **Celebrate diversity** – Different perspectives make the project stronger.  
 109. **Enjoy learning from mistakes** – Bugs are part of coding; treat them as opportunities.  
 110. **Keep it positive** – Aim to make the community welcoming and fun for everyone.  
+
+## Notes
+
+- **Report violations to Kaido immediately.**  
+- **We take the Code of Conduct seriously.**  
+- **Extreme violations (harassment, threats, unsafe content, targeting minors) will be reported to GitHub.**  
+- **Respect the project rules at all times.**  
+- **Have fun and be creative!**
