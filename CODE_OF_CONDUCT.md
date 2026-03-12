@@ -48,3 +48,49 @@ Violating these rules may result in **removal from the project or blocked access
 40. **Report violations immediately** – Any minor-targeting abuse should be reported to Kaido right away.  
 
 Following these rules keeps the project **safe, fun, and friendly for everyone**, especially young creators!
+
+## Additional Protections for Specific Characteristics
+
+41. **Respect all genders** – No insults or harassment based on gender identity or expression.  
+42. **Respect all sexual orientations** – No discrimination or derogatory comments about sexuality.  
+43. **Respect all races and ethnicities** – No racist language, slurs, or stereotyping.  
+44. **Respect all ages** – No belittling or insulting minors or adults.  
+45. **Respect all religions and beliefs** – No mocking or attacking someone’s faith.  
+46. **Respect neurodivergence** – No mocking autism, ADHD, OCD, or other neurodivergent conditions.  
+47. **Respect disabilities** – No insults, jokes, or discrimination against physical or mental disabilities.  
+48. **Respect body type and appearance** – No shaming or negative comments about body shape, weight, or looks.  
+49. **Respect nationalities and citizenships** – No xenophobic or nationalist harassment.  
+50. **Respect languages** – No mocking accents, dialects, or non-native speakers.  
+51. **Respect pronouns** – Use correct pronouns and avoid misgendering intentionally.  
+52. **Respect family situations** – No shaming or insulting someone’s family, guardians, or home life.  
+53. **Respect cultural practices** – No mocking traditions, festivals, or cultural norms.  
+54. **Respect mental health** – Do not insult or minimize mental health struggles.  
+55. **Respect education levels** – No mocking someone for what they know or don’t know.  
+56. **Respect economic background** – No insulting people for financial situations.  
+57. **Respect legal status** – No harassment based on immigration or residency.  
+58. **Respect gender expression** – Avoid stereotyping or shaming based on clothing or appearance.  
+59. **Respect creative work** – Always credit creators and respect original content.  
+60. **Respect personal boundaries** – Never pressure someone to share personal info or participate unwillingly.  
+
+## LGBTQ+ Protections
+
+61. **Respect all sexual orientations** – Lesbian, gay, bisexual, pansexual, asexual, and others. No derogatory language.  
+62. **Respect all gender identities** – Trans, non-binary, genderqueer, agender, etc. No harassment or misgendering.  
+63. **Use correct pronouns** – Always use the pronouns someone shares. Intentional misgendering is not allowed.  
+64. **No deadnaming** – Do not use a trans person’s former name without consent.  
+65. **No “conversion” or change attempts** – Do not pressure anyone to change their sexual orientation or gender identity.  
+66. **No outing someone** – Never reveal a person’s LGBTQ+ identity without their permission.  
+67. **No slurs or hate speech** – Avoid any offensive words targeting LGBTQ+ people.  
+68. **No mocking relationships** – Respect LGBTQ+ relationships and families.  
+69. **Support inclusion** – Encourage participation and respect for LGBTQ+ members.  
+70. **Report harassment** – Notify project maintainers if someone targets LGBTQ+ people.  
+71. **No stereotypes** – Avoid assigning stereotypes to LGBTQ+ individuals.  
+72. **No exclusion** – LGBTQ+ contributors cannot be denied access or contributions.  
+73. **Respect safe spaces** – Do not bring harassment or discrimination into community spaces.  
+74. **No sexualized comments** – Keep all discussions and contributions non-sexual and safe for teens.  
+75. **No jokes at LGBTQ+ expense** – Avoid humor that harms or excludes LGBTQ+ people.  
+76. **Encourage learning** – Be open to feedback about respectful LGBTQ+ behavior.  
+77. **Be patient and kind** – Support LGBTQ+ members who may educate others about respectful communication.  
+78. **Do not downplay experiences** – Take LGBTQ+ concerns seriously; never minimize discrimination.  
+79. **Respect chosen names** – Always use the name someone prefers to go by.  
+80. **Ensure accessibility** – Avoid any barriers that prevent LGBTQ+ members from participating fully.  
